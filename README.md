@@ -37,7 +37,7 @@
 ---
 
 🤝 Let’s Connect
-<p align="center"> <a href="https://www.linkedin.com/in/mayankmeh/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/> </a> <a href="mailto:mayankmehra0003@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail" alt="Gmail"/> </a> <a href="https://github.com/ShinichiKudo0" target="_blank"> <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" alt="GitHub"/> </a> </p>
+<p align="center"> <a href="https://www.linkedin.com/in/mayankmeh/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/> </a> <a href="mailto:mayankmehra0003@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail" alt="Gmail"/> </a> <a href="https://leetcode.com/u/mayankmehra0003/" target="_blank"> <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="Leetcode"/> </a> </p>
 <p align="center"> <b>“Smart work beats hard work — every single time.”</b> </p>
 
 ---
