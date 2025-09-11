@@ -77,9 +77,6 @@
   <a href="https://leetcode.com/u/mayankmehra0003/" target="_blank">
     <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="Leetcode"/>
   </a>
-  <a href="https://github.com/ShinichiKudo0" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
 </p>
 
 <p align="center">
