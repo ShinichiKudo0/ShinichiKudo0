@@ -1,9 +1,9 @@
 # Hi 👋, I'm Mayank Mehra
 
-<h3 align="center">Full Stack Developer | Software Engineer</h3>
+<h3 align="center">Software Developer | Full Stack Developer | Vibe Coding Cleaner | AI and Integration Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=21&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Development;Building+Scalable+Applications;Clean+Code+%26+Best+Practices;Modern+Web+Technologies" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=21&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Development;Building+Scalable+Applications;Automation+%26+AI+Integration;Clean+Code+%26+Best+Practices" alt="Typing SVG" />
 </p>
 
 ## 🧑‍💻 About Me
